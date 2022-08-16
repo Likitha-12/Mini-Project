@@ -1,2 +1,2 @@
-# Mini-Project
+# Project
 Background Color Generator
